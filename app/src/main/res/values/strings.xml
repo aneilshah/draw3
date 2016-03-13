@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Draw2</string>
+    <string name="view_text">3D Graph</string>
+    <string name="B1_text">5</string>
+    <string name="B2_text">10</string>
+    <string name="B3_text">15</string>
+    <string name="slider_text">Number of Lines</string>
+</resources>
